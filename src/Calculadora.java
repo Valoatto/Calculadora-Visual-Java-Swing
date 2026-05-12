@@ -15,7 +15,7 @@ public class Calculadora extends JFrame implements ActionListener {
     private String operador = "";        // qual operador foi escolhido
     private boolean novoNumero = true;   // controla se vou comecar um numero novo
 
-    // paleta de cores que escolhi pra deixar o visual clean
+    // paleta de cores visual
     private final Color CORFUNDO = new Color(245, 245, 245);
     private final Color CORVISOR = new Color(40, 40, 40);
     private final Color CORTEXTOVISOR = Color.WHITE;
